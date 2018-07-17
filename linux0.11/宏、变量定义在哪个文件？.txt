@@ -1,0 +1,2 @@
+inb(), outb()----asm/io.h
+set_gate, set_intr_gate----asm/system.h
